@@ -4,7 +4,7 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment <a name="Programming For Problem Solving  using C Lab"></a> <br>
+<b> Experiment Programing For Problem Solving using C Lab <a name="Programming For Problem Solving  using C Lab"></a> <br>
 </p>
 
 <b>Discipline | <b> Computer Science & Engineering
