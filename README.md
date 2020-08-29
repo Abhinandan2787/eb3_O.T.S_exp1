@@ -1,56 +1,54 @@
 ## Introduction (Round 0)
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b> Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Programming for Problem Solving using C
+<b> Experiment|     <b> 1. (Exp-1)Write a program that finds whether a given number is even or odd. 
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+The purpose of this lab is to introduce the students to the field of programming using C language. The students will be able to enhance their analyzing and problem solving skills and use the same for writing programs in C.
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+The objective of experiment is to find whether the number is even (divisible by 2) or odd.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+         Engineering student
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+         B Tech
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+        AKTU
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b> Name of Developer | <b> Abhinandan Tripathi
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> Buddha Institute of Technology
+<b> Email id|     <b> abhinandan2787@gmail.com
+<b> Department | Department of Computer Science and Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Arvind Pandey
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> Meerut Institute of Engineering and Technology
+<b> Email id|     <b> arvind.pandey@miet.ac.in
+<b> Department | Department of Electronics and Communication Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Abhishek Singh | Student | Computer Science and Engineering | Buddha Institute of Technology,Gorakhpur | singhabhishek3806@gmail.com 
+2 | Abhishek Tiwari | Student | Computer Science and Engineering |Buddha Institute of Technology,Gorakhpur | bababhitiwari8726@gmail.com
+3 | Anushri Mishra | Student | Computer Science and Engineering | Buddha Institute of Technology,Gorakhpur | bit18cs08@bit.ac.in
+4 | Shrishtee Agrawal | Student | Computer Science and Engineering | Buddha Institute of Technology,Gorakhpur | bit18cs40@bit.ac.in
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+
