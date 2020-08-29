@@ -4,13 +4,13 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment <a name="Programming For Problem Solving  using C Lab"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b> Computer Science & Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Programming For Problem Solving using C
+<b> Experiment|     <b> 1. WAP that finds whether a given number is even or odd.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,19 +21,15 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area :Reinforce Theoretical Concepts, Experimentations & Data Analysis 
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-
-
+1.| User will be able to: <br>Describe the concept of even & odd numbers <br>Check whether the given number is even or odd. | [Understand) | [Describe]
+2.| User will be able to: <br>Check whether the given number is even or odd  <br> | [Evaluate] | [Determine]
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -43,12 +39,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Expository
+###### Assessment Method: Formative Assessment
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b>  The students will be able to explain the concept of even and odd numbers. Even numbers are those numbers which are divisible by 2 and odd numbers are those numbers which are not divisible by 2. We can check whether the given number is even number or odd number.: </u>
 <br>
- Brief description as per handout
+ Simulator:
 
 <br/>
 <div align="right">
@@ -65,8 +61,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| User will be able to:  <br>Describe the concept of even & odd numbers . | On the simulator screen, student  <br> writes any number.| Write any number to perform the experiment
+2.| User will be able to: <br>Check whether the given number is even or odd  | On the simulator screen, student gets <br> the answer that number is even or odd after calculation of mod of that number. | Check the given number is even or odd
 
 
 You can add more question. All questions may not be as MCQ
@@ -90,7 +86,6 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student click on the  <br>simulation tab | Simulator screen of the  <br>experiment will open  | To open the screen for performing the experiment.
+2.| Student will write  <br>any number | On simulator’s screen a number  <br> will show  | A number has given as an input
+3.| Student will click on <br> the 'Submit'button | On simulator’s screen a <br> message has show the number is even or odd| Check the number is even or odd number 
