@@ -4,15 +4,15 @@
 <b>Discipline | <b> Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving using C
-<b> Experiment|     <b> 1. (Exp-1)Write a program that finds whether a given number is even or odd. 
+<b> Experiment|     <b> 1. (Exp-1)Write a program that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
-<h5> About the Lab (Objective) : </h5>
+<h5> About the Lab : </h5>
 
 The purpose of this lab is to introduce the students to the field of programming using C language. The students will be able to enhance their analyzing and problem solving skills and use the same for writing programs in C.
 
 <h5> About the Experiment : </h5>
 
-The objective of experiment is to find whether the number is even (divisible by 2) or odd.
+With the help of this experiment, students can perform some arithmetic operations like addition, subtraction, multiplication, division & modulo of any two number using switch statement.
 
 <h5> Target Audience : </h5>
 
