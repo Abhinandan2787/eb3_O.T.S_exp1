@@ -27,8 +27,8 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Describe the concept of addition,subtraction,<br>multiplication,division & modulo of any two number | [Understand) | [Describe]
-2.| User will be able to: <br>Compute the  addition, subtraction, multiplication, <br>division & modulo of any two number using switch statement | [Apply] | [Calculate]
+1.| User will be able to: <br>Learn the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | [Understand) | [Describe]
+2.| User will be able to: <br>perform mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data | [Apply] | [Calculate]
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -38,12 +38,11 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u>Problem Based 
+###### Name of Instructional Strategy  :    <u>Expository 
 ###### Assessment Method: Formative & Summative Assessment
 
-<u> <b>Description: </b>  The students will be able to explain the concept of addition, subtraction, multiplication, division & modulo of any two numbers.In addition, students will add two number, In subtraction, students will compute the difference between two number, In multiplication, students will multiply two number, In division, students will compute the quotient of two number & In Modulo, students will compute the remainder of two number</u>
+<u> <b>Description: </b>  The students will be able to make a simulator which takes two operand as an input and perform mathematical operation like addition, subtraction, multiplication, division & modulo .</u>
 <br>
- Simulator:
 
 <br/>
 <div align="right">
@@ -60,8 +59,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to:  <br>Describe the concept of addition, subtraction, multiplication, division & modulo of any two number | On the simulator screen, student  <br> writes any two number.| Write any two number to perform the experiment
-2.| User will be able to: <br>Compute the  addition, subtraction, multiplication, division & modulo of any two number using switch statement | On the simulator screen, student <br> can select any one operation from addition, subtraction, multiplication, division and modulo and gets the answer after performing any one operation using switch statement.  |Compute addition, subtraction, multiplication, division and  modulo of two operands. 
+1.| User will be able to:  <br>Learn the concept of different mathematical operation like addition, subtraction, multiplication, division & modulo of any two number | On the simulator screen, student  <br> will give any two number as an input.| give any two number as an input to perform the experiment
+2.| User will be able to: <br>perform mathematical operation i.e. the  addition, subtraction, multiplication, division & modulo on given data | On the simulator screen, student <br>can select any one operation from addition, subtraction, multiplication, division and modulo and gets the answer after performing any one operation using switch statement.  |perform one of the operation from  addition, subtraction, multiplication, division and  modulo of two operands. 
 
 
 You can add more question. All questions may not be as MCQ
@@ -86,5 +85,5 @@ or type the correct answer below the question.
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student click on the  <br>simulation tab | Simulator screen of the  <br>experiment will open  | To open the screen for performing the experiment.
-2.| Student will write  <br>any two number | On simulator’s screen two number <br> will show  | A two number has given as an input
-3.| Student will click on <br> the any one button from ‘ADD’, ‘SUB’, ‘MUL’, ‘DIV’ and ‘MOD’ | On simulator’s screen a message has<br> show after performing any one operation from addition, subtraction, multiplication, division and modulo.|Perform any one operation using two operands  
+2.| Student will give any <br>two number as an input |simulator take two number as an input|Give two number as an input to perform mathematical operations
+3.| Student will click on <br>drop down button and select any one operation from ‘ADD’, ‘SUB’, ‘MUL’, ‘DIV’ and ‘MOD’ | simulator takes two <br> number & perform any one mathematical operation.|To Perform different mathematical operations
