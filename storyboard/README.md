@@ -10,8 +10,8 @@ In this experiment a user wants to perform mathematical operations using two ope
 
 ### 2. Story:
 
-(i) Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment <br>.
-(ii) There are various keywords, functions and header files are used, so user can also understand the basic tags <br>.  
+(i) Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment.<br>
+(ii) There are various keywords, functions and header files are used, so user can also understand the basic tags.<br> 
 (iii)  User can get an idea about the structure of C Programming.
 
 
