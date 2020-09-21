@@ -16,41 +16,41 @@ In this experiment a user wants to perform mathematical operations using two ope
 
 
 #### 2.1 Set the Visual Stage Description:
-(i) On the simulator screen, user can see the code of experiment and basic description of the code <br>.
-(ii) There are two text boxes for input (Operands). 
-(iii) There is a dropdown list to select the mathematical operation.
+(i) On the simulator screen, user can see the code of experiment and basic description of the code.<br>
+(ii) There are two text boxes for input (Operands).<br>
+(iii) There is a dropdown list to select the mathematical operation.<br>
 (iv) There are two buttons namely Calculate and Reset, by which a user can get their result.
 
 
 #### 2.2 Set User Objectives & Goals:
-(i) By this experiment user will be able to understand and describe the basic concept of C programming.
-(ii) User will be able to understand the procedure of writing code.
+(i) By this experiment user will be able to understand and describe the basic concept of C programming.<br>
+(ii) User will be able to understand the procedure of writing code.<br>
 (iii) User will be able to perform mathematical operations.
 
 
 #### 2.3 Set the Pathway Activities:
 
-(i) When the user will click on the simulator, simulator screen will be open up.
-(ii) On screen firstly there is a code section where user can get an idea about the code and concept of C programming.
-(iii) There are two text boxes for input (Operands). User will give input for performing mathematical operation and a dropdown list for selecting the operation.
+(i) When the user will click on the simulator, simulator screen will be open up.<br>
+(ii) On screen firstly there is a code section where user can get an idea about the code and concept of C programming.<br>
+(iii) There are two text boxes for input (Operands). User will give input for performing mathematical operation and a dropdown list for selecting the operation.<br>
 (iv) There are buttons on screen namely Calculate and Reset, by which a user can get their result and if user wants to clear the text box section then click on reset button.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-(i) What do you mean by header files? What are uses of header file? 
-(ii) Can we run a program with using header files? Explain.
-(iii) Why switch () statement is used in programming?
-(iv ) What will happen if we are not using  getch() function?
+(i) What do you mean by header files? What are uses of header file?<br> 
+(ii) Can we run a program with using header files? Explain.<br>
+(iii) Why switch () statement is used in programming?<br>
+(iv ) What will happen if we are not using  getch() function?<br>
 (v) Why C programming called procedural programming language?
 
 
 ##### 2.5 Allow pitfalls:
-(i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.
+(i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.<br>
 
 ##### 2.6 Conclusion:
-(i) User will take hardly 5 minutes to understand the procedures.
-(ii) It will take max. 10 minutes to complete the experiment.
+(i) User will take hardly 5 minutes to understand the procedures.<br>
+(ii) It will take max. 10 minutes to complete the experiment.<br>
 (iii) User will get a basic idea and procedure to make a program.
 
 
@@ -59,31 +59,31 @@ In this experiment a user wants to perform mathematical operations using two ope
 
 switch (expression)
 {
-    case constant1:
-      // statements
+    case constant1:<br>
+      // statements<br>
       break;
 
-    case constant2:
-      // statements
+    case constant2:<br>
+      // statements<br>
       break;
 
-case constant3:
-      // statements
-      break;
-
-
-case constant4:
-      // statements
+case constant3:<br>
+      // statements<br>
       break;
 
 
-case constant5:
-      // statements
+case constant4:<br>
+      // statements<br>
       break;
 
 
-    default:
-      // default statements
+case constant5:<br>
+      // statements<br>
+      break;
+
+
+    default:<br>
+      // default statements<br>
 }
  
 
