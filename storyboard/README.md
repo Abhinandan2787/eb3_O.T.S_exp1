@@ -63,8 +63,8 @@ switch (expression)<br>
       // statements<br>
       break;
 
-   case constant2:
-      // statements
+   case constant2:<br>
+      // statements<br>
       break;
 
    case constant3:<br>
