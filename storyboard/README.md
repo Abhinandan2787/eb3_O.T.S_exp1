@@ -2,7 +2,7 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: Name of the Experiment:WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 ### 1. Story Outline:
 
@@ -12,44 +12,91 @@ In this experiment a user wants to perform mathematical operations using two ope
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+(i) Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment.
+(ii) There are various keywords, functions and header files are used, so user can also understand the basic tags.  
+(iii)  User can get an idea about the structure of C Programming.
+
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+(i) On the simulator screen, user can see the code of experiment and basic description of the code.
+(ii) There are two text boxes for input (Operands). 
+(iii) There is a dropdown list to select the mathematical operation.
+(iv) There are two buttons namely Calculate and Reset, by which a user can get their result.
+
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+(i) By this experiment user will be able to understand and describe the basic concept of C programming.
+(ii) User will be able to understand the procedure of writing code.
+(iii) User will be able to perform mathematical operations.
+
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+(i) When the user will click on the simulator, simulator screen will be open up.
+(ii) On screen firstly there is a code section where user can get an idea about the code and concept of C programming.
+(iii) There are two text boxes for input (Operands). User will give input for performing mathematical operation and a dropdown list for selecting the operation.
+(iv) There are buttons on screen namely Calculate and Reset, by which a user can get their result and if user wants to clear the text box section then click on reset button.
+
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+(i) What do you mean by header files? What are uses of header file? 
+(ii) Can we run a program with using header files? Explain.
+(iii) Why switch () statement is used in programming?
+(iv ) What will happen if we are not using  getch() function?
+(v) Why C programming called procedural programming language?
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+(i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+(i) User will take hardly 5 minutes to understand the procedures.
+(ii) It will take max. 10 minutes to complete the experiment.
+(iii) User will get a basic idea and procedure to make a program.
+
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+•	 Switch Statement:
+
+switch (expression)
+{
+    case constant1:
+      // statements
+      break;
+
+    case constant2:
+      // statements
+      break;
+
+case constant3:
+      // statements
+      break;
+
+
+case constant4:
+      // statements
+      break;
+
+
+case constant5:
+      // statements
+      break;
+
+
+    default:
+      // default statements
+}
+ 
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+
+
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
+Link to mindmap here : Store the mindmap in both .mm & .png extension in the /mindmap folder and include link of only .pdf verison here <br> (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intricacies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind   http://freemind.sourceforge.net/wiki/index.php/Main_Page  (send the .png file and also the original .mm extension project file. )
+ 
 
 ### 5. Storyboard :
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
