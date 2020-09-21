@@ -6,7 +6,9 @@ Experiment 1: Name of the Experiment
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+C Programming Language is a very first programming language for engineering students of any streams. C programming is a general purpose, procedural programming language. This language is also known as a backbone of many other programming languages.
+In this experiment a user wants to perform mathematical operations using two operands and one operator. The objective of this experiment is that a user can understand and describe basic concept of mathematical operation using switch statement.
+
 
 ### 2. Story:
 
