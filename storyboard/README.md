@@ -57,32 +57,31 @@ In this experiment a user wants to perform mathematical operations using two ope
 ##### 2.7 Equations/formulas: NA
 •	 Switch Statement:
 
-switch (expression)
-{
-    case constant1:<br>
+switch (expression)<br>
+{<br>
+   case constant1:<br>
       // statements<br>
       break;
 
-    case constant2:<br>
-      // statements<br>
+   case constant2:
+      // statements
       break;
 
-case constant3:<br>
-      // statements<br>
-      break;
-
-
-case constant4:<br>
+   case constant3:<br>
       // statements<br>
       break;
 
 
-case constant5:<br>
+   case constant4:<br>
       // statements<br>
       break;
 
 
-    default:<br>
+   case constant5:<br>
+      // statements<br>
+      break;
+
+   default:<br>
       // default statements<br>
 }
  
