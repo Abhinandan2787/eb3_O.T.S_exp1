@@ -1,7 +1,5 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
 Experiment 1: Name of the Experiment:WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 ### 1. Story Outline:
@@ -12,13 +10,13 @@ In this experiment a user wants to perform mathematical operations using two ope
 
 ### 2. Story:
 
-(i) Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment.
-(ii) There are various keywords, functions and header files are used, so user can also understand the basic tags.  
+(i) Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment <br>.
+(ii) There are various keywords, functions and header files are used, so user can also understand the basic tags <br>.  
 (iii)  User can get an idea about the structure of C Programming.
 
 
 #### 2.1 Set the Visual Stage Description:
-(i) On the simulator screen, user can see the code of experiment and basic description of the code.
+(i) On the simulator screen, user can see the code of experiment and basic description of the code <br>.
 (ii) There are two text boxes for input (Operands). 
 (iii) There is a dropdown list to select the mathematical operation.
 (iv) There are two buttons namely Calculate and Reset, by which a user can get their result.
