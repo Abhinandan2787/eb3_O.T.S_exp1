@@ -1,22 +1,20 @@
 ## <b> Pre-test
-#### Please attempt the following questions
+#### Please attempt the following questions:-
 
 Q1.C program compilation start from main function.<br>
 <b>a).True<br></b>
    b).False<br>
    Ans:- True
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
+Q2.A C program can have more than one main function.<br>
+a).True<br>
+b).False<br>
+Ans:- False
 
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
+Q3.To do arithmetic operation we have to give two operands.<br>
 a) y1 -y2<br>
 <b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
+
 
 4) The condition for destructive interference is: the path difference should be equal to __________. <br>
 <b>a) Odd integral multiple of wavelength<br></b>
