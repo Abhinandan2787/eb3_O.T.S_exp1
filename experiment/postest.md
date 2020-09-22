@@ -15,7 +15,7 @@ d.intvariable_count;<br>
 Q3.Which of the following is not a valid variable name declaration?<br>
 a.int_a3;<br>
 b. int_3a;<br>
-c.int_A3;r>
+c.int_A3;<br>
 <b>d.None of the mentioned<br></b>
 
 Q4.What will be the output?<br>
@@ -40,6 +40,6 @@ Q5.What will be output?<br>
    }<br>
  <b>a.8<br></b>
  b.5<br>
- c.5.5>br>
+ c.5.5<br>
  d.compiler error<br>
  
