@@ -11,19 +11,16 @@ a).True<br>
 b).False<br>
 
 
-Q3.To do arithmetic operation we have to give two operands.<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
+Q3.To do arithmetic operation we have to give two operands?.<br>
+a).Yes<br>
+b).No<br>
 
 
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
+Q4.To do operation,it will accept floating value and integer value?.<br>
+a).Yes<br>
+b).No<br>
 
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+Q5.While doing modulus operation,the remainder is integer?<br>
+a).Yes<br>
+b).No<br>
+
