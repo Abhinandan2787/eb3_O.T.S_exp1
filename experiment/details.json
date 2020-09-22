@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.",     
+			"Lab": "Programming for Problem Solving using C",               
+			"Discipline": "Computer Science and Engineering",				 
+			"Technology": "Html,CSS,Js"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Abhinandan Tripathi",         
+      "Institute": "Buddha Institute of Technology",         
+      "InstituteAcronym": "BIT"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Abhishek Singh",             
+      "Institute": "Buddha Institute of Technology",               
+			"InstituteAcronym": "BIT"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Abhishek Tiwari",              
+      "Institute": "Buddha Institute of Technology",               
+			"InstituteAcronym": "BIT"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Anushri Mishra",             
+      "Institute": "Buddha Institute of Technology",               
+			"InstituteAcronym": "BIT"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Shrishtee Agrawal",              
+      "Institute": "Buddha Institute of Technology",               
+			"InstituteAcronym": "BIT"         
        }
    ]
 
