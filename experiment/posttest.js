@@ -90,25 +90,25 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "All keywords in C are in ____________",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "LowerCase letters",                  ///// Write the option 1 inside double quotes
+        b: "UpperCase letters",                  ///// Write the option 2 inside double quotes
+        c: "CamelCase letters",                  ///// Write the option 3 inside double quotes
+        d: "None of the mentioned"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Which of the following is not a valid C variable name?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "int number;",                  ///// Write the option 1 inside double quotes
+        b: "float rate;",                  ///// Write the option 2 inside double quotes
+        c: "intvariable_count;",                  ///// Write the option 3 inside double quotes
+        d: "int $main;"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
@@ -117,24 +117,57 @@
         till closing curly braces comma ( }, )
 
         and paste it below the curly braces comma ( below correct answer }, ) of above 
-        question
-
-    Copy below section
+        question */
 
     {
-      question: "This is question n?",
+      question: "Which of the following is not a valid variable name declaration?",
       answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
+        a: "int __a3;",
+        b: "int __3a;",
+        c: "int __A3;",
+        d: "None of the mentioned"
+      },
+      correctAnswer: "d"
+    },
+
+    {
+      question: "What will be the output?",
+                 int main()
+                 {     
+                   int a=25%10;
+                   printf("%d",a);
+                   return 0;
+                 }
+
+      answers: {
+        a: "2.5",
+        b: "2",
+        c: "5",
+        d: "compiler error"
       },
       correctAnswer: "c"
     },
+     
+    {
+      question: "What will be the output?",  
+                int main()
+               {
+                 int a=58%10;
+                 printf("%d",a);
+                 return 0;
+               }
 
-    Copy above section
+      answers: {
+        a: "8",
+        b: "5",
+        c: "5.5",
+        d: "compiler error"
+      },
+      correctAnswer: "a"
+    },
 
-    */
+
+    
 
 
 
