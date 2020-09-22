@@ -97,6 +97,7 @@ Link to mindmap here : Store the mindmap in both .mm & .png extension in the /mi
  
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
+Storyboard: <a href="storyboard/ezgif.com-gif-maker.gif
+"> [here]</a>
 Link to storybaord (.gif file ) here :
 
