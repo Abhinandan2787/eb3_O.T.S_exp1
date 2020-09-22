@@ -1,5 +1,5 @@
-## <b> Pre-test
-#### Please attempt the following questions:-
+<b> Pre-test
+Please attempt the following questions:-
 
 Q1.C program compilation start from main function.<br>
 <b>a).True<br></b>
