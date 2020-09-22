@@ -1,11 +1,10 @@
 ## <b> Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+Q1.C program compilation start from main function.<br>
+<b>a).True<br></b>
+   b).False<br>
+   Ans:- True
 
 2) Superposition of crest over crest results in __________ .<br>
 a) Destructive interference<br>
