@@ -4,12 +4,12 @@
 Q1.C program compilation start from main function.<br>
 <b>a).True<br></b>
    b).False<br>
-   Ans:- True
+   
 
 Q2.A C program can have more than one main function.<br>
 a).True<br>
 b).False<br>
-Ans:- False
+
 
 Q3.To do arithmetic operation we have to give two operands.<br>
 a) y1 -y2<br>
