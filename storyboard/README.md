@@ -140,7 +140,6 @@ Flow chart for the experiment implementation for that takes two operand and one 
  
 
 #### 5. Storyboard :
-Storyboard: <a href="storyboard/ezgif.com-gif-maker.gif
-"> [here]</a>
+<img src="
 
 
