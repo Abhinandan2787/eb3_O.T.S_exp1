@@ -9,7 +9,7 @@
 <b>Discipline | <b> Computer Science & Engineering
 :--|:--|
 <b> Lab | <b> Programming For Problem Solving using C
-<b> Experiment|     <b> 1. WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
+<b> Experiment|     <b>  WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 
 <h4> [1. Focus Area](#LO)
