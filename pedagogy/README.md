@@ -3,7 +3,7 @@
 
 <br>
 <br>
-<b> Experiment: Programming For Problem Solving  using C Lab <a name=""></a> <br>
+
 </p>
 
 <b>Discipline | <b> Computer Science & Engineering
