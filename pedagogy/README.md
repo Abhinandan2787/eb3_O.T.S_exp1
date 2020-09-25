@@ -29,6 +29,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>Learn the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | [Understand) | [Describe]
 2.| User will be able to: <br>perform mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data | [Apply] | [Calculate]
+3.| User will be able to: <br>Write a program to perform mathematical operation i.e. addition, subtraction, multiplication, division & modulo  on given data | [Apply] | [Calculate]
+<br/>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
