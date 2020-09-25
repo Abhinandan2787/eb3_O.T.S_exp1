@@ -38,6 +38,30 @@ b.	Float <br>
 c.	Character <br>
 d.	Integer & Character 
 
+Difficulty Level: Apply
+2.	The output of the following program wiil be:
+int main()
+   {
+     int num=1;
+     switch(num+2)
+     {
+         case 1:
+           printf("Case1”);
+         case 2:
+           printf("Case2");
+         case 3:
+           printf("Case3");
+         default:
+          printf("Default");
+    }
+    return 0;
+  }
+
+a.	Case 3
+b.	Case3 Default
+c.	Case 1 Case 2 Case 3
+d.	Return 0
+
 (i) User will click on the simulator and simulator screen will be open for performing the experiment.<br> 
 (ii) There are two text boxes for the input (Operands) values. User will give input for performing mathematical operation.<br>
 (iii) Now, User can select any one operation from dropdown list.<br>
