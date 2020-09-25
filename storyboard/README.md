@@ -36,7 +36,7 @@ Difficulty Level: Understand<br>
 a.	Integer <br>
 b.	Float <br>
 c.	Character <br>
-d.	Integer & Character<b><br> 
+<b>d.	Integer & Character</b><br> 
 
 Difficulty Level: Apply<br>
 2.	The output of the following program wiil be:<br>
