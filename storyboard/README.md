@@ -58,7 +58,7 @@ int main()<br>
   }<br>
 
 a.	Case 3<br>
-b.	Case3 Default<b><br>
+<b>b.	Case3 Default</b><br>
 c.	Case 1 Case 2 Case 3<br>
 d.	Return 0<br>
    
@@ -84,7 +84,7 @@ int main()<br>
     return 0;<br>
   }<br>
 
-a.	Case 2<b><br>
+<b>a.	Case 2</b><br>
 b.	Case 2 Case 3 Default<br>
 c.	Case 2 Case 3<br>
 d.	Case 2  Default<br>
@@ -129,18 +129,18 @@ switch (expression)<br>
  
 
 
-### 3. Flowchart 4
+#### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
 Flow chart for the experiment implementation for that takes two operand and one operator from the user and perform the operation and print the result by using switch statement.
 
 
-### 4. Mindmap:
+#### 4. Mindmap:
 <img src="mindmap/mindmap.png.jpeg"/><br>
-Link to mindmap here : Store the mindmap in both .mm & .png extension in the /mindmap folder and include link of only .pdf verison here <br> (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intricacies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind   http://freemind.sourceforge.net/wiki/index.php/Main_Page  (send the .png file and also the original .mm extension project file. )
+
  
 
-### 5. Storyboard :
+#### 5. Storyboard :
 Storyboard: <a href="storyboard/ezgif.com-gif-maker.gif
 "> [here]</a>
-Link to storybaord (.gif file ) here :
+
 
