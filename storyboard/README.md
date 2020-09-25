@@ -30,37 +30,37 @@ Users will follow the following steps:<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Students will be asked question based on various cognitive levels. The questions are as follows:
-Difficulty Level: Understand
+Students will be asked question based on various cognitive levels. The questions are as follows:<br>
+Difficulty Level: Understand<br>
 1. 1.	In Switch statement the value of expression has defined in:<br>
 a.	Integer <br>
 b.	Float <br>
 c.	Character <br>
-d.	Integer & Character 
+d.	Integer & Character<b><br> 
 
-Difficulty Level: Apply
-2.	The output of the following program wiil be:
-int main()
-   {
-     int num=1;
-     switch(num+2)
-     {
-         case 1:
-           printf("Case1”);
-         case 2:
-           printf("Case2");
-         case 3:
-           printf("Case3");
-         default:
-          printf("Default");
-    }
-    return 0;
-  }
+Difficulty Level: Apply<br>
+2.	The output of the following program wiil be:<br>
+int main()<br>
+   {<br>
+     int num=1;<br>
+     switch(num+2)<br>
+     {<br>
+         case 1:<br>
+           printf("Case1”);<br>
+         case 2:<br>
+           printf("Case2");<br>
+         case 3:<br>
+           printf("Case3");<br>
+         default:<br>
+          printf("Default");<br>
+    }<br>
+    return 0;<br>
+  }<br>
 
-a.	Case 3
-b.	Case3 Default
-c.	Case 1 Case 2 Case 3
-d.	Return 0
+a.	Case 3<br>
+b.	Case3 Default<b><br>
+c.	Case 1 Case 2 Case 3<br>
+d.	Return 0<br>
 
 (i) User will click on the simulator and simulator screen will be open for performing the experiment.<br> 
 (ii) There are two text boxes for the input (Operands) values. User will give input for performing mathematical operation.<br>
