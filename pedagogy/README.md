@@ -90,5 +90,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 1.| Student click on the  <br>simulation tab | Simulator screen of the  <br>experiment will open  | To open the screen for performing the experiment.
 2.| Student will give any <br>two number as an input |simulator take two number as an input|Give two number as an input to perform mathematical operations
 3.| Student will click on <br>drop down button and select any one operation from ‘ADD’ (+), ‘SUB’ (-), ‘MUL’ (*), ‘DIV’ (/) and ‘MOD’ (%) | simulator takes two <br> number & perform any one mathematical operation.|To Perform different mathematical operations.
-4.| After selection of operation  <br>student will press “Calculate’ button. |Calculate the final value according to the operation select.
+4.| After selection of operation  <br>student will press “Calculate’ button. | Simulator will perform any one of the operation after pressing ‘Calculate’ button. |Calculate the final value according to the operation select.
 
