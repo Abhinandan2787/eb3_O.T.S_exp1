@@ -4,7 +4,7 @@
 <b>Discipline | <b> Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving using C
-<b> Experiment|     <b> 1. Write a program that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
+<b> Experiment|     <b>  Write a program that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 <h5> About the Lab : </h5>
 
