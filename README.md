@@ -20,7 +20,7 @@ With the help of this experiment, students can perform some arithmetic operation
 
 <h5> Course Alignment : </h5>
 
-         B. Tech.
+         B.Tech.
 
 <h5> Universities Mapped : </h5>
 
