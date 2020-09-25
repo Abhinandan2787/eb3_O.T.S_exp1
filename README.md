@@ -4,7 +4,7 @@
 <b>Discipline | <b> Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving using C
-<b> Experiment|     <b> 1. (Exp-1)Write a program that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
+<b> Experiment|     <b> 1. Write a program that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 <h5> About the Lab : </h5>
 
@@ -16,27 +16,27 @@ With the help of this experiment, students can perform some arithmetic operation
 
 <h5> Target Audience : </h5>
 
-         Engineering student
+         Faculty & Students of B.Tech. 1st Year
 
 <h5> Course Alignment : </h5>
 
-         B Tech
+         B. Tech.
 
 <h5> Universities Mapped : </h5>
 
-        AKTU
+        Dr. APJ Abdul Kalam Technical University, Lucknow
 
 <b> Name of Developer | <b> Abhinandan Tripathi
 :--|:--|
-<b> Institute | <b> Buddha Institute of Technology
+<b> Institute | <b> Buddha Institute of Technology, Gorakhpur
 <b> Email id|     <b> abhinandan2787@gmail.com
 <b> Department | Department of Computer Science and Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> Arvind Pandey
+<b>Mentored by | <b> Arvind Kumar Pandey
 :--|:--|
-<b> Institute | <b> Meerut Institute of Engineering and Technology
+<b> Institute | <b> Meerut Institute of Engineering and Technology, Meerut
 <b> Email id|     <b> arvind.pandey@miet.ac.in
 <b> Department | Department of Electronics and Communication Engineering
 
