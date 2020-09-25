@@ -90,23 +90,13 @@ c.	Case 2 Case 3<br>
 d.	Case 2  Default<br>
 
 
-(i) User will click on the simulator and simulator screen will be open for performing the experiment.<br> 
-(ii) There are two text boxes for the input (Operands) values. User will give input for performing mathematical operation.<br>
-(iii) Now, User can select any one operation from dropdown list.<br>
-(iv ) What will happen if we are not using  getch() function?<br>
-(v) Why C programming called procedural programming language?
-
-
 ##### 2.5 Allow pitfalls:
 (i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.<br>
 
 ##### 2.6 Conclusion:
-(i) User will take hardly 5 minutes to understand the procedures.<br>
-(ii) It will take max. 10 minutes to complete the experiment.<br>
-(iii) User will get a basic idea and procedure to make a program.
+At the end, user will be able to learn all the concepts of how to perform different mathematical operations using switch statement. This is the concepts in the students to apply them to determining how a system is controllable and observable.<br>
 
-
-##### 2.7 Equations/formulas: NA
+##### 2.7 Syntax: 
 •	 Switch Statement:
 
 switch (expression)<br>
