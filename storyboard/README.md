@@ -135,7 +135,7 @@ Flow chart for the experiment implementation for that takes two operand and one 
 
 
 #### 4. Mindmap:
-<img src="mindmap/mindmap.png.jpeg"/><br>
+<img src="mindmap/mindmapmindmap.png.jpeg.jpeg"/><br>
 
  
 
