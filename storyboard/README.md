@@ -92,6 +92,9 @@ d.	Case 2  Default<br>
 
 ##### 2.5 Allow pitfalls:
 (i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.<br>
+(ii) User needs to give two elements as an input.<br>
+(iii) User will get Error message if he/she will enter only one operand value. 
+
 
 ##### 2.6 Conclusion:
 At the end, user will be able to learn all the concepts of how to perform different mathematical operations using switch statement. This is the concepts in the students to apply them to determining how a system is controllable and observable.<br>
