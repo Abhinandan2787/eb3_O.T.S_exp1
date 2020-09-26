@@ -133,7 +133,7 @@ switch (expression)<br>
 
 
 #### 3. Flowchart 4
-<img src="flowchart/flowchart.png.png"/><br>
+<img src="flowchart/IMG-20200926-WA0007.jpg"/><br>
 Flow chart for the experiment implementation for that takes two operand and one operator from the user and perform the operation and print the result by using switch statement.
 
 
