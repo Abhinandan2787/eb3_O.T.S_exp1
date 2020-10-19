@@ -8,7 +8,7 @@ In this experiment, we can perform any one mathematical operation from addition,
 
 ### 2. Story:
 
-In this experiment, we are calculate the addition, subtraction, multiplication, division & modulo of any two numbers using switch statement. In this experiment, we take the two value as an input , after takes input value select any one operation from the drop down and calculate the  final result as per selection of operation. With the help of this experiment we can understand and describe the basic concept of mathematical operation using switch statement..<br>
+In this experiment, we are calculating the addition, subtraction, multiplication, division & modulo of any two numbers using switch statement. In this experiment, we take the two value as an input , after takes input value select any one operation from the drop down and calculate the  final result as per selection of operation. With the help of this experiment we can understand and describe the basic concept of mathematical operation using switch statement..<br>
 
 #### 2.1 Set the Visual Stage Description:
 On the simulator screen, we can read the entire instruction carefully. After this we can input two numeric values through two text boxes, these numeric values will be either integers or float. After input the values we can select any one operation i.e. Addition (+), Subtraction (-), Multiplication (*), Division (/) & modulo (%) from drop down button and press the Calculate button. After pressing Calculate button the final result will be displayed in the text box of value section. We can reset all the values after pressing another button Reset.  
