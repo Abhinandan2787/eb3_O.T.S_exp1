@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment : Name of the Experiment:WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
+Experiment :WAP that takes two operands and one operator from the user and perform the operation and prints the result by using switch statement.
 
 ### 1. Story Outline:
 
