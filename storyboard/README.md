@@ -38,7 +38,7 @@ b.	Float <br>
 c.	Character <br>
 <b>d.	Integer & Character</b><br> 
 
-Difficulty Level: Apply<br>
+Difficulty Level: Understand<br>
 2.	The output of the following program wiil be:<br>
 int main()<br>
    {<br>
@@ -62,33 +62,7 @@ a.	Case 3<br>
 c.	Case 1 Case 2 Case 3<br>
 d.	Return 0<br>
    
-   Difficulty Level: Apply<br>
-3.	The output of the following program wiil be:<br>
-int main()<br>
-   {
-     int num=2;<br>
-     switch(num)<br>
-     {<br>
-         case 1:<br.
-           printf("Case1”);<br.
- 		break;<br>
-         case 2:<br>
-           printf("Case2");<br>
-		break;<br>
-         case 3:<br>
-           printf("Case3");,br>
-		break;<br>
-         default:<br.
-          printf("Default");<br>
-    }<br>
-    return 0;<br>
-  }<br>
-
-<b>a.	Case 2</b><br>
-b.	Case 2 Case 3 Default<br>
-c.	Case 2 Case 3<br>
-d.	Case 2  Default<br>
-
+   
 
 ##### 2.5 Allow pitfalls:
 (i) If the user gives the character instead of integers as an input then the simulator won't perform any operation and will ignore the given input.<br>
