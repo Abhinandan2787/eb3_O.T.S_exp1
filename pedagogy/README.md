@@ -27,7 +27,7 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Remember the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | Remember | Describe
+1.| User will be able to: <br>Remember the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | Remember | Recall
 2.| User will be able to: <br> learn the concept of syntax of switch statement through  mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data | Understand | Describe
 
 <br/>
