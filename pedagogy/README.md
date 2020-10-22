@@ -27,9 +27,9 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Learn the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | Understand | Describe
-2.| User will be able to: <br>perform mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data | Apply | Calculate
-3.| User will be able to: <br>Write a program to perform mathematical operation i.e. addition, subtraction, multiplication, division & modulo  on given data | Apply | Calculate
+1.| User will be able to: <br>Remember the concept of different mathematical operations like addition,subtraction,<br>multiplication,division & modulo of any two number | Remember | Describe
+2.| User will be able to: <br> learn the concept of syntax of switch statement through  mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data | Understand | Describe
+
 <br/>
 <br/>
 <div align="right">
@@ -62,7 +62,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| User will be able to:  <br>Learn the concept of different mathematical operation like addition, subtraction, multiplication, division & modulo of any two number | On the simulator screen, student  <br> will give any two number as an input.| give any two number as an input to perform the experiment
-2.| User will be able to: <br>perform mathematical operation i.e. the  addition, subtraction, multiplication, division & modulo on given data | On the simulator screen, student <br>can select any one operation from addition, subtraction, multiplication, division and modulo.   |perform one of the operation from  addition, subtraction, multiplication, division and  modulo of two operands. 
+2.| User will be able to: <br>learn the concept of syntax of switch statement through  mathematical operation i.e. addition, subtraction, multiplication, <br>division & modulo on given data| On the simulator screen, student <br>can select any one operation from addition, subtraction, multiplication, division and modulo.   |perform one of the operation from  addition, subtraction, multiplication, division and  modulo of two operands. 
 3.| User will be able to: <br>Write a program to perform mathematical operation i.e. addition, subtraction, multiplication, division & modulo  on given data | On the simulator screen,  <br>after selection of operation press on ‘Calculate’ button & get the result.  |After performing one of the operations we can get result.
 
 
